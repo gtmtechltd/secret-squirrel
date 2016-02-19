@@ -1,0 +1,5 @@
+#!/bin/sh
+
+echo "SECRETPASSWORD is ${SECRETPASSWORD}"
+
+sleep 300
